@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="D:\Personal\BigData\Scala_Workspace_inteliJ\practice_proj" />
+        <option name="resolveSbtClassifiers" value="true" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
